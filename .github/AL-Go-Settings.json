@@ -1,9 +1,9 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/b3b0575e5d52962223044af27ad01fca5cf9fc88/.Modules/settings.schema.json",
   "doNotPublishApps": true,
   "type": "PTE",
   "MicrosoftTelemetryConnectionString": "",
   "githubRunner": "windows-latest",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/b3b0575e5d52962223044af27ad01fca5cf9fc88/.Modules/settings.schema.json",
   "incrementalBuilds": {
     "onPush": true
   },
@@ -24,5 +24,6 @@
   "githubRunnerShell": "powershell",
   "useApproximateVersion": true,
   "useCompilerFolder": true,
-  "templateUrl": "https://github.com/businesscentralapps/tmpK8LH8A-PTE@main"
+  "templateUrl": "https://github.com/businesscentralapps/tmpK8LH8A-PTE@main",
+  "templateSha": "c7621975ca126b210ee56e316ad8b460d55047d2"
 }
